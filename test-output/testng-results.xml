@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-07T02:18:17 IST" name="Suite" finished-at="2023-03-07T02:19:06 IST" duration-ms="48786">
+    <groups>
+    </groups>
+    <test started-at="2023-03-07T02:18:17 IST" name="Test" finished-at="2023-03-07T02:19:06 IST" duration-ms="48786">
+      <class name="com.smart.webUi.testcases.CardsPageTest">
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:com.smart.webUi.testcases.CardsPageTest@5890e879]" started-at="2023-03-07T02:18:17 IST" name="launchApplication" finished-at="2023-03-07T02:18:43 IST" duration-ms="25513" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="verifyCardTitile()[pri:1, instance:com.smart.webUi.testcases.CardsPageTest@5890e879]" started-at="2023-03-07T02:18:43 IST" name="verifyCardTitile" finished-at="2023-03-07T02:18:54 IST" duration-ms="11132" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCardTitile -->
+        <test-method signature="verifyJoiningFee()[pri:2, instance:com.smart.webUi.testcases.CardsPageTest@5890e879]" started-at="2023-03-07T02:18:54 IST" name="verifyJoiningFee" finished-at="2023-03-07T02:18:56 IST" duration-ms="2056" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyJoiningFee -->
+        <test-method signature="verifyAnnualFee()[pri:3, instance:com.smart.webUi.testcases.CardsPageTest@5890e879]" started-at="2023-03-07T02:18:57 IST" name="verifyAnnualFee" finished-at="2023-03-07T02:19:05 IST" duration-ms="8276" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAnnualFee -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.smart.webUi.testcases.CardsPageTest@5890e879]" started-at="2023-03-07T02:19:06 IST" name="tearDown" finished-at="2023-03-07T02:19:06 IST" duration-ms="135" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.smart.webUi.testcases.CardsPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
